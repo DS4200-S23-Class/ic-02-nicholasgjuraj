@@ -1,0 +1,19 @@
+body{
+	font-family: Arial;
+}
+
+h1, h3{
+	text-align: center;
+}
+
+.container{
+	border: 2px solid black;
+}
+
+#p1{
+	color: rgb(47, 79, 47);
+}
+
+rect{
+	fill: rgb(200,100,100);
+}
